@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="260" viewBox="0 0 480 260" role="img" aria-labelledby="title desc">
+  <title id="title">孩子的搬运标签</title>
+  <desc id="desc">标签中央有两颗一样的星星。请孩子把看见的图案描述或展示给家长。</desc>
+  <defs>
+    <polygon id="star" points="0,-30 8,-10 30,-10 13,5 18,28 0,15 -18,28 -13,5 -30,-10 -8,-10" fill="#234b60"/>
+  </defs>
+  <rect width="480" height="260" fill="#fffdf7"/>
+  <g font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" fill="#234b60">
+    <text x="240" y="42" text-anchor="middle" font-size="24" font-weight="bold">孩子的搬运标签</text>
+    <rect x="55" y="65" width="370" height="124" rx="12" fill="#fff" stroke="#234b60" stroke-width="3"/>
+    <use href="#star" x="175" y="127"/>
+    <use href="#star" x="305" y="127"/>
+    <text x="240" y="231" text-anchor="middle" font-size="21">请告诉家长，你看到了什么。</text>
+  </g>
+</svg>
